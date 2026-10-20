@@ -10,7 +10,11 @@
 
 <!-- /!\ do not modify above this line -->
 
-partner-contact
+## Updated by Superbird
+
+### 20.0
+
+- `partner_manual_rank`
 
 <!-- /!\ do not modify below this line -->
 
